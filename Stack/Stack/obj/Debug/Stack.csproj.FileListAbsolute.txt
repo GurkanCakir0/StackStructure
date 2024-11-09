@@ -1,0 +1,10 @@
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.Form1.resources
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\GURKAN\PycharmProjects\StackStructure\Stack\Stack\obj\Debug\Stack.pdb
